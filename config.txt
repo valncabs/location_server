@@ -1,0 +1,10 @@
+cd location-api
+npm init -y
+npm install express pg dotenv cors
+npm install --save-dev nodemon
+
+(desarrollo)
+npm run dev
+
+(normal)
+npm start
